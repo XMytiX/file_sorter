@@ -31,7 +31,7 @@ for item in os.listdir(path0):
 	
 	print (f"{item} --> {ext} ")
 	print (f"Sort Succsusfull !!! ")
-'''
+```
 
 </pre>
 # File Organizer by Exension 
