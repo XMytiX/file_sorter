@@ -1,6 +1,7 @@
 ## Markdown
 <pre>
-	import os
+'''python
+import os
 import shutil
 from  tkinter import Tk, filedialog
 
