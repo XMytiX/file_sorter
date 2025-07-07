@@ -32,8 +32,10 @@ for item in os.listdir(path0):
 	print (f"{item} --> {ext} ")
 	print (f"Sort Succsusfull !!! ")
 ```
-
 </pre>
+
+----------------------------
+
 # File Organizer by Exension 
 a sample and bedinner-friendly Python script to organaze files in a slected folder based on their entension .
 This is my first personal Python  project ,  built to help me learn scripting, file handling, and GUI interactions in Python .
